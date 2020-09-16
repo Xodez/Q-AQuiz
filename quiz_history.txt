@@ -1,0 +1,6 @@
+Name of quiz: QnA.txt | Number of questions answered correctly: 5 | Total number of questions: 7 | Difficulty: 1
+Name of quiz: QnA.txt | Number of questions answered correctly: 1 | Total number of questions: 7 | Difficulty: 2
+Name of quiz: QnA.txt | Number of questions answered correctly: 3 | Total number of questions: 7 | Difficulty: 3
+Name of quiz: QnA.txt | Number of questions answered correctly: 0 | Total number of questions: 7 | Difficulty: 4
+Name of quiz: QnA.txt | Number of questions answered correctly: 2 | Total number of questions: 7 | Difficulty: 5
+Name of quiz: QnA.txt | Number of questions answered correctly: 1 | Total number of questions: 7 | Difficulty: 3
